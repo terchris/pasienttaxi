@@ -2603,18 +2603,6 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/nrk-vil-granske-drosjeordning-for-syke-1176x660.png");
 }
-.cid-qE9BjHegtw {
-  background: #ffffff;
-}
-.cid-qE9BjHegtw .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-qE9BjHegtw .video-block {
-    width: 100% !important;
-  }
-}
 .cid-qE9CrhFlmH {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2657,6 +2645,21 @@ body {
 @media (max-width: 767px) {
   .cid-qE9CrhFlmH .testimonials-caption {
     padding: 0 2rem 2rem 2rem !important;
+  }
+}
+.cid-qE9CrhFlmH .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-qE9BjHegtw {
+  background: #ffffff;
+}
+.cid-qE9BjHegtw .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qE9BjHegtw .video-block {
+    width: 100% !important;
   }
 }
 .cid-qE8J7jFXpE {
